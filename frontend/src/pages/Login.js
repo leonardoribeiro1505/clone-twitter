@@ -28,6 +28,7 @@ export default class Login extends Component {
     render() {
         return (
             <div className="login-wrapper">
+            <h1>Bem vindo ao clone do Twitter</h1>
                 <img src={twitterlogo} alt="CloneTwitter" />
                 <form onSubmit={this.handleSubmit}>
                     <input 
