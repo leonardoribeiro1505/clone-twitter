@@ -5,5 +5,5 @@ Sistema que simula o site Twitter, com as funcionalidades de criar tweet, listar
 
 ## Tecnologias utilizadas
 
-- **Backend**: camada da API Rest desenvolvida em NodeJS com MongoDB
-- **Frontend**: camada do *single-page application* desenvolvida em ReactJS
+- **Backend**: camada da API Rest desenvolvida em NodeJS, Express, Socket.io e MongoDB como base de dados.
+- **Frontend**: camada do *single-page application* desenvolvida em ReactJS.
